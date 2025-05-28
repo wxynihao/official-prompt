@@ -1,6 +1,7 @@
 # official-prompt
 Prompts of common LLM clients 常用大模型工具的默认提示词
 
+- [ChatGPT](./prompts/chatgpt.md) 
 - [Github Copilot](./prompts/github_copilot.md) 
 - [豆包](./prompts/doubao.md) 
 - [DeepSeek](./prompts/deepseek.md) 
